@@ -173,17 +173,16 @@ section{
 .text-right{
 	text-align:right;
 }
-.blog-section{padding-bottom: 40px;/*! border-radius: 107px; */}
+.blog-section{padding-bottom: 50px;}
 .col-4{
 	width: 33.33%;
 	float: left;
-	padding: 7px;
+	padding: 10px;
 	box-sizing: border-box;
 }
 .blog{
 	background-color: #FDEBED;
-	padding: 63px;
-	border-radius: 10px;
+	padding: 30px;
 }
 .blog img{
     width: 100%;
@@ -191,12 +190,11 @@ section{
 }
 .blog h3{
     font-size: 20px;
-    margin: -4px;
+    margin: 0;
     color: #3B506C;
-    padding-top: 17px;
 }
 .blog p{
-    margin-bottom: -10px;
+    margin-bottom: 5px;
     color: #3B506C;
     font-size: 17px;
 }
