@@ -183,6 +183,7 @@ section{
 .blog{
 	background-color: #FDEBED;
 	padding: 30px;
+	border-radius: 10px;
 }
 .blog img{
     width: 100%;
