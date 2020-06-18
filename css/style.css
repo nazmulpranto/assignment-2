@@ -65,7 +65,7 @@ section{
     color: #3b506c;
 }
 .about{
-	padding: 10px 0;
+	
 }
 .about img{
 
@@ -141,7 +141,7 @@ section{
     color: #3b506c;
 }
 .about{
-	
+	padding: 10px 0;
 }
 .about img{
 	display: block;
@@ -173,28 +173,30 @@ section{
 .text-right{
 	text-align:right;
 }
-.blog-section{padding-bottom: 50px;}
+.blog-section{padding-bottom: 40px;/*! border-radius: 107px; */}
 .col-4{
 	width: 33.33%;
 	float: left;
-	padding: 10px;
+	padding: 7px;
 	box-sizing: border-box;
 }
 .blog{
 	background-color: #FDEBED;
-	padding: 30px;
+	padding: 63px;
+	border-radius: 10px;
 }
 .blog img{
     width: 100%;
-    height: 300px;
+    height: 149px;
 }
 .blog h3{
     font-size: 20px;
-    margin: 0;
+    margin: -4px;
     color: #3B506C;
+    padding-top: 17px;
 }
 .blog p{
-    margin-bottom: 5px;
+    margin-bottom: -10px;
     color: #3B506C;
     font-size: 17px;
 }
@@ -207,4 +209,5 @@ section{
 .green{
 	background-color: #FFF7E8;
 }
+
 
